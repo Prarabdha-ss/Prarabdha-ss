@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prarabdha Sharma</h1>
-<h3 align="center">A passionate Data Engineer/Developer from India</h3>
+<h3 align="center">A passionate Data Engineer/Developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prarabdha-ss&label=Profile%20views&color=0e75b6&style=flat" alt="prarabdha-ss" /> </p>
 
