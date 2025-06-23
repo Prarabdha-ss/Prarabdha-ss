@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Data Engineering projects**
 
-- 💬 Ask me about **Data Pipelines**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **kinchu98sharma@gmail.com**
 
